@@ -2,7 +2,7 @@
 import datetime
 start_time = datetime.datetime.now()
 
-with open("calories.txt") as f:
+with open("data/calories.txt") as f:
     calories = f.read()
 
 calories = calories.splitlines()
