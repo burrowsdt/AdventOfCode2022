@@ -16,6 +16,7 @@ Although I'm mainly focused on making it work and finding a solution, I'll proba
 | Day 2 | :star: :star: |
 | Day 3 | :star: :star: |
 | Day 4 | :star: :star: |
+| Day 5 | :star: :star: |
 
 ![Current Status in the Advent of Code Competition](images/currentStatus.png)
 
