@@ -32,4 +32,4 @@ while found == False:
             
 
 print(start_index, end_index)
-print("Last character before marker is index " + str(end_index)) # 1275
+print("Last character before marker is index " + str(end_index)) # 3605
